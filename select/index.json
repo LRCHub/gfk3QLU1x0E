@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Better Things",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-26T13:21:06.050618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Better Things to Do",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/01_Better_Things_to_Do_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Better Things To Do (Album Version)",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/02_Better_Things_To_Do_(Album_Version)_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/03_Better_Things_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/04_Better_Things_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/05_Better_Things_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "Passion Pit",
+      "has_synced": true,
+      "path": "select/06_Better_Things_Passion_Pit.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "Passion Pit",
+      "has_synced": true,
+      "path": "select/07_Better_Things_Passion_Pit.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bigger and Better Things",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/08_Bigger_and_Better_Things_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "Sharon Jones & The Dap-Kings",
+      "has_synced": true,
+      "path": "select/09_Better_Things_Sharon_Jones_&_The_Dap-Kings.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "Splendid",
+      "has_synced": true,
+      "path": "select/10_Better_Things_Splendid.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/11_Better_Things_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "the CROSS",
+      "has_synced": true,
+      "path": "select/12_Better_Things_the_CROSS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "Memphis May Fire",
+      "has_synced": true,
+      "path": "select/13_Better_Things_Memphis_May_Fire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/14_Better_Things_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/15_Better_Things_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "Kinks, The",
+      "has_synced": true,
+      "path": "select/16_Better_Things_Kinks,_The.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Better Things",
+      "artist": "Kinks",
+      "has_synced": true,
+      "path": "select/17_Better_Things_Kinks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Better Things",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Better_Things_aespa.txt"
+    }
+  ]
+}
